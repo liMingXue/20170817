@@ -8,3 +8,4 @@ export default Vue.extend({
     
 })
 </script>
+leave-active-class=""
